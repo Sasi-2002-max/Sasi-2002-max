@@ -12,11 +12,14 @@ Pursuing Masters in Data Science in SRM UNIVERSITY
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/sass.png"/>
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/spring-logo.png"/>  
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000"/>  
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/>  <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
 <img height="50" width="50" src="https://img.icons8.com/?size=100&id=V5cGWnc9R4xj&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=0S1Hoidfnk7H&format=png&color=000000"/> 
 
+### CORE Skills in Data Science
+<img height="50" width="50" src="https://img.icons8.com/?size=100&id=8WuxNz5f1jSQ&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=NL90I8YT1YnN&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=fTkqveCX0blI&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=A4Ex3d4V9VuC&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=TEiLRURnbBpn&format=png&color=000000"/><img height="50" width="50" src="https://img.icons8.com/?size=100&id=3PzJzkVt8neW&format=png&color=000000"/>
 
 ![Sasi Rekha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sasi-2002-max&theme=dark&show_icons=true&&hide=issues,contribs)
 
