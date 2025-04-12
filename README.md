@@ -3,7 +3,7 @@
 Pursuing Masters in Data Science in SRM UNIVERSITY
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio]                                                
-- 🌱 I’m currently learning Data Science and working projects
+- 🌱 I’m currently learning Data Science and working on projects
 - Previously worked with Uptoskills as a team leader
 - ⚡ Fun fact: I do pencil sketching.
 - Social Presence
@@ -22,4 +22,4 @@ Pursuing Masters in Data Science in SRM UNIVERSITY
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Sasirekha_001?ext=contest&theme=dark)](https://leetcode.com/Sasirekha_001)
 
-[![Sasi Rekha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username==Sasi-2002-max&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/Sasi-2002-max/github-readme-activity-graph)
+[![Sasi Rekha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
